@@ -3,8 +3,7 @@
 The below outlines a proposal to deliver a series of ~90 minute workshops over a broad range of backend technologies.
 
 ### Audience
-The intended audience is anyone with an interest in the concepts, architectures, tools, languages, methodologies, processes and products that make of the landscape of what is often very broadly referred to as backend engineering.
-From students to seasoned software engineers looking for some insight in to areas they have yet to explore.  
+The intended audience is anyone with an interest in the concepts, architectures, tools, languages, methodologies, processes and products that make of the landscape of what is often very broadly referred to as backend engineering, from students to seasoned software engineers looking for some insight in to areas they have yet to explore.  
 
 As such workshops will be assessable and will seek to demystify the myriad of terms and jargon that exist whilst also being rich in content.
 
@@ -22,14 +21,14 @@ It is envisaged that these workshops be delivered fortnightly between tues-thurs
 
 (needs more work so order and titles may change but this gives a good general flavour)
 
-1 - Containerisation; Docker
-2 - Container Orchestration; Kubernetes
-3 - Golang
-4 - Microservices; Introduction
-6 - Microservices; Version Management
-5 - Distributed Tracing / Log Aggregation
-6 - Cloud Services; GCP
-7 - Testing Strategies; unit, functional and system level
-8 - Continuous Integration; tooling + process 
+- Containerisation; Docker
+- Container Orchestration; Kubernetes
+- Languages; Golang, Erlang
+- Microservices
+- Distributed Tracing / Log Aggregation
+- Cloud Services; GCP
+- Testing Strategies; unit, functional and system level
+- Continuous Integration; tooling + process 
+- Event Sourcing / Stream Processing; 
 
 
