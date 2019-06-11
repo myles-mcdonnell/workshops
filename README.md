@@ -30,5 +30,6 @@ It is envisaged that these workshops be delivered fortnightly between tues-thurs
 - Testing Strategies; unit, functional and system level
 - Continuous Integration; tooling + process 
 - Event Sourcing / Stream Processing; 
+- Data Storage Platforms; Relational, Documents, Key/Value, Graph
 
 
